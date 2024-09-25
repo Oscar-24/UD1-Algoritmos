@@ -1,0 +1,5 @@
+Inicio
+LEER num
+grados <-- (num-32)*5/9
+MOSTRAR grados
+Fin
