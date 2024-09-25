@@ -1,0 +1,19 @@
+Opcion 1
+Inicio
+LEER num1
+LEER num2
+LEER num3
+suma <-- num1+num2+num3
+media <-- suma/3
+Fin
+Opcion 2
+Inicio
+i <-- 0
+suma <--0
+i <-- i+1
+LEER num
+Si i < 3;
+suma <-- suma+num
+Volver a linea 13
+media <-- suma/i
+Fin
