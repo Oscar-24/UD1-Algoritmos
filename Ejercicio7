@@ -1,0 +1,10 @@
+Inicio
+LEER minuto
+hora <--
+min <--0
+dia <--0
+Si minuto >= 60;
+  hora <-- minuto/24
+  volver a linea 5
+Si hora > 24;
+  dia <-- hora/
