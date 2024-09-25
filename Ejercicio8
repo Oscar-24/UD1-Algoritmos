@@ -1,0 +1,11 @@
+Inicio
+LEER sueldo
+comision <-- (sueldo *10)/100
+mes <-- 3
+suma <-- sueldo + comision
+comision2 <-- comision * mes
+MOSTRAR sueldo
+MOSTRAR comision
+MOSTRAR comision2
+MOSTRAR suma
+Fin
