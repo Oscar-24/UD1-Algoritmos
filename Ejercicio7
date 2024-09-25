@@ -1,10 +1,10 @@
 Inicio
 LEER minuto
-hora <--
-min <--0
-dia <--0
+hora <--0
 Si minuto >= 60;
-  hora <-- minuto/24
-  volver a linea 5
-Si hora > 24;
-  dia <-- hora/
+  minuto <-- minuto-60
+  hora <--hora + 1
+  volver a linea 4
+MOSTRAR hora
+MOSTRAR minuto
+Fin
