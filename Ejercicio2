@@ -1,8 +1,6 @@
 Inicio
 LEER altura
 LEER base
-area <-- 0
-perimetro <-- 0
 area <-- altura * base
 perimetro <-- (altura + base)*2
 MOSTRAR area
