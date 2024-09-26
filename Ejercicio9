@@ -1,0 +1,8 @@
+Inicio
+LEER precio
+descuento <-- (precio*15)/100
+total <-- precio-descuento
+MOSTRAR precio
+MOSTRAR descuento
+MOSTRAR total
+Fin
