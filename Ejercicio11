@@ -1,0 +1,11 @@
+Inicio
+contador <-- 0
+LEER num1
+LEER num2
+i <-- 0
+Si num2>num1
+  Si i < num2
+    i <-- i+1
+    volver a linea 6
+MOSTRAR "la distancia entre"+ num1+"y"+num2+"es de "+i+"numeros"
+Fin
