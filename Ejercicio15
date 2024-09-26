@@ -1,5 +1,8 @@
 Inicio
 LEER A
 LEER B
-
+C <-- A
+A <-- B
+MOSTRAR C
+MOSTRAR A
 Fin
