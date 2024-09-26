@@ -1,6 +1,6 @@
 Inicio
 LEER lado1
 LEER lado2
-hip <-- "raiz cuadrada"(lado1^2*lado2^2)
+hip <-- (lado1^2*lado2^2)^0.5
 MOSTRAR hip
 FIN
