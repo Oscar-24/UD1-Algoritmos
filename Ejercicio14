@@ -1,5 +1,6 @@
 Inicio
  LEER num1
 Si num1 > 9
-   
+   invertir <-- invert(num1)
+MOSTRAR invertir
 Fin
