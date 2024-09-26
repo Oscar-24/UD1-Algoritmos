@@ -1,0 +1,13 @@
+Inicio
+LEER trabajo
+LEER parcial1
+LEER parcial2
+LEER parcial3
+LEER examen
+promedio <-- ((parcial1+parcial2+parcial3)*55)/100
+calificacion <-- (examen*30)/100
+trabajofinal< <-- (trabajo*15)/100
+MOSTRAR promedio
+MOSTRAR calificacion
+MOSTRAR trabajofinal
+Fin
