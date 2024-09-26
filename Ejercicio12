@@ -1,0 +1,11 @@
+Inicio
+LEER x
+LEER y
+i <-- 0
+num1 <-- x*1+y*2
+num2 <-- x*2+y*2
+Si num1>num2  
+  Si i<num2
+    i <-- i+1
+MOSTRAR "La distancia entre los dos puntos es de "+i+"numeros"
+Fin
